@@ -312,6 +312,34 @@ fieldset[disabled] .btn-theme {
   padding: 20px 30px;
 }
 
+.btn-dark {
+  color: white;
+  background: #593196;
+}
+
+.btn-dark:hover {
+  color: white;
+  background: #4c2486;
+}
+
+.btn-blue {
+  color: white;
+  background: #009cdc;
+}
+
+.btn-blue:hover {
+  color: white;
+  background: #008dc5;
+}
+
+.btn-blue:focus {
+  color: white;
+}
+
+.btn-dark:focus {
+  color: white;
+}
+
 /*------------------------------------------------------------------
     [Progress Bar]
 ------------------------------------------------------------------*/
